@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="46967" started-at="2018-10-22T20:34:53Z" finished-at="2018-10-22T20:35:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="46967" started-at="2018-10-22T20:34:53Z" finished-at="2018-10-22T20:35:40Z">
+      <class name="TheSwiftCodes.Assignment2">
+        <test-method status="PASS" signature="TestCase2()[pri:0, instance:TheSwiftCodes.Assignment2@482f8f11]" name="TestCase2" duration-ms="46929" started-at="2018-10-22T20:34:53Z" finished-at="2018-10-22T20:35:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase2 -->
+      </class> <!-- TheSwiftCodes.Assignment2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
